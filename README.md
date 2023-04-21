@@ -1,6 +1,6 @@
 <h1>SwiftUI Movie Booking App</h2>
 
-![A picture of the strabucks app](https://github.com/Thet9354/Starbucks-Android-App/blob/aff773a6c75bb6eef8c225ada236df81ec0238f2/app/src/main/res/drawable/cover.png)
+![A picture of the strabucks app]()
 
 This is a SwiftUI movie booking app project built with Xcode. The project implements a user interface for booking movie tickets, selecting seats, and making payments. It is designed to be intuitive and user-friendly, with a clean and modern look.
 
