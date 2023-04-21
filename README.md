@@ -13,7 +13,7 @@ The app includes the following features:
 <li>A seating chart for selecting seats</li>
 <li>Interactive UI and animations</li>
 
-<h2>Installation/h2>
+<h2>Installation</h2>
 
 To run this project on your local machine, follow these steps:
 
